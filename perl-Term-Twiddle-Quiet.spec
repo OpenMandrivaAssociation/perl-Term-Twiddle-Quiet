@@ -59,3 +59,17 @@ rm -rf %buildroot
 %perl_vendorlib/*
 
 
+
+
+%changelog
+* Sun Apr 17 2011 Funda Wang <fwang@mandriva.org> 1.100.110-2mdv2011.0
++ Revision: 654306
+- rebuild for updated spec-helper
+
+* Thu Jan 14 2010 Jérôme Quelin <jquelin@mandriva.org> 1.100.110-1mdv2011.0
++ Revision: 491241
+- import perl-Term-Twiddle-Quiet
+
+
+* Thu Jan 14 2010 cpan2dist 1.100110-1mdv
+- initial mdv release, generated with cpan2dist
