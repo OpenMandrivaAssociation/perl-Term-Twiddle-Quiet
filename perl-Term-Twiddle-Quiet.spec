@@ -3,7 +3,7 @@
 
 Name:       perl-%{upstream_name}
 Version:    %perl_convert_version %{upstream_version}
-Release:    %mkrel 2
+Release:    3
 
 Summary:    Twiddles a thingy while-u-wait if run interactively
 License:    GPL+ or Artistic
